@@ -18,11 +18,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-<h1>:mailbox_with_mail: Contacts</h1>
+<h1>:mailbox_with_mail: Tech Blogs</h1>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chocolate-banana-shake.tistory.com/)](https://chocolate-banana-shake.tistory.com/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@yongmin_lee/posts)](https://velog.io/@yongmin_lee/posts)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bacaren21@naver.com)](mailto:bacaren21@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/bacaren21)](https://blog.naver.com/bacaren21)
 <!--
 **turegold/turegold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
