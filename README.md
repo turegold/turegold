@@ -21,7 +21,7 @@
 <h1>:mailbox_with_mail: Tech Blogs</h1>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chocolate-banana-shake.tistory.com/)](https://chocolate-banana-shake.tistory.com/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@yongmin_lee/posts)](https://velog.io/@yongmin_lee/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@yongmin_lee/posts)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/bacaren21)](https://blog.naver.com/bacaren21)
 <!--
 **turegold/turegold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
