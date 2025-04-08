@@ -1,5 +1,5 @@
 ## LEE YONGMIN 🐱‍🐉
-url=https%3A%2F%2Fgithub.com%2Fturegold%2Fturegold&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+🐳
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bacaren21)](https://solved.ac/bacaren21/)
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="4%" /> Skills</h1>
