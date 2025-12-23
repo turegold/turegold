@@ -1,7 +1,7 @@
 ## LEE YONGMIN 🐱‍🐉
 🐳
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bacaren21)](https://solved.ac/bacaren21/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=turegold)
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="4%" /> Skills</h1>
 <h3>Languages</h3>
 
